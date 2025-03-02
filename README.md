@@ -27,7 +27,7 @@ This is an **offline-first** Care Notes App built with:
 
 ### ** 2️ Run the Backend**
 ```bash
-  cd backend
+  cd care-notes-backend
   npm install
   npm start
 ```
@@ -35,11 +35,11 @@ _Backend will start on **http://localhost:5000**_
 
 ### ** 3️ Run the Frontend**
 ```bash
-  cd ../frontend
+  cd care-notes-app
   npm install
   npm run dev
 ```
-_Frontend will start on **http://localhost:5173** (or another port)_
+_Frontend will start on **http://localhost:5173**
 
 ---
 
