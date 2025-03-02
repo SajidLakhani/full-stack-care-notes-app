@@ -22,7 +22,7 @@ This is an **offline-first** Care Notes App built with:
 ### ** 1️ Clone the Repository**
 ```bash
   git clone https://github.com/SajidLakhani/full-stack-care-notes-app.git
-  cd full-stack-care-notes-app
+  cd full-stack-care-notes-app-main
 ```
 
 ### ** 2️ Run the Backend**
