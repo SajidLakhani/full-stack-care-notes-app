@@ -21,8 +21,8 @@ This is an **offline-first** Care Notes App built with:
 
 ### ** 1️ Clone the Repository**
 ```bash
-  git clone https://github.com/your-repo/care-notes.git
-  cd care-notes
+  git clone https://github.com/SajidLakhani/full-stack-care-notes-app.git
+  cd full-stack-care-notes-app
 ```
 
 ### ** 2️ Run the Backend**
